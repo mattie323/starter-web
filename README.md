@@ -11,3 +11,5 @@ As stated above, the main purpose is to provide simple examples
 weweadad
 Sample website with plenty of files for demos
 ## How to Contribute
+
+2014 Git.Traning
