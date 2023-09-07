@@ -11,5 +11,5 @@ As stated above, the main purpose is to provide simple examples
 weweadad
 Sample website with plenty of files for demos
 ## How to Contribute
-
+Please for this repository and then issue Pull Requests for review.
 2014 Git.Traning
